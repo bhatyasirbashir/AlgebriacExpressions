@@ -1,0 +1,74 @@
+h1{
+    color: brown;
+    margin-top: 20px;
+}
+
+fieldset{
+    color: red;
+    background-color: whitesmoke;
+    background-image:-webkit-linear-gradient(yellow,orange,silver,olivedrab,teal);
+    font-size: x-large;
+    height: 250px;
+    border-radius: 20px;
+    border-top: 10px solid orangered;
+    border-left: 10px solid blue;
+    border-right: 10px solid yellow;
+    border-bottom: 10px solid aqua;
+    border-style: groove;
+}
+
+legend{
+    color:black;
+    background-color: yellowgreen;
+    font-weight: 100;
+    border-radius: 20px;
+    border-top: 09px solid orangered;
+    border-left: 09px solid blue;
+    border-right: 09px solid yellow;
+    border-bottom: 09px solid aqua;
+    border-style: groove;
+}
+
+ol{
+    list-style-type: upper-roman;
+    font-weight: 700;
+    color: darkred;
+}
+
+.Forcontentssection{
+    color: black;
+    list-style-type: upper-roman;
+    font-weight: 700;
+}
+
+h2{
+    color: mediumblue ;
+}
+
+h3{
+    margin-top: 2px;
+    margin-bottom: 1px;
+    color: darkred;
+    font-weight: bold;
+}
+
+div{
+    color: black;
+    font-size: large;
+    margin-top: 20px;
+}
+
+.footerdiv{
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size:medium;
+}
+
+.a_accounts{
+    margin: 120px;
+}
+
+img{
+    height: 25px;
+    width: 25px;
+}
